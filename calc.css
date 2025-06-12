@@ -1,0 +1,79 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shell{
+    display: flex;
+    border-radius: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 500px;
+    background-color: brown;
+    padding: 15px;
+    
+}
+
+.first{
+    display: flex;
+}
+
+button{
+    border-radius: 40px;
+    padding: 20px;
+    font-size: 50px;
+    background-color: orange;
+}
+.touch{
+    font-size: 50px;
+}
+
+.display{
+    width: 400px;
+    height:100px;
+    background-color: white;
+    display: flex;
+    margin: 20px;
+    display:flex;
+    justify-content: end;
+    align-items: end;
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+
+}
+
+.second{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.third{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.fourth{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.fifth{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
